@@ -1,0 +1,36 @@
+body{
+    position: center;
+    text-align: center;
+    display: grid;
+
+    .main-page{
+        align-content: center;
+        display: grid;
+        margin:20px;
+        padding:20px;
+    }
+    #green{
+        padding: 20px;
+        height: 60px;
+        width: 60px;
+        background-color: green;
+    }
+    #red{
+        padding: 20px;
+        height: 60px;
+        width: 60px;
+        background-color: red;
+    }
+    #yellow{
+        padding: 20px;
+        height: 60px;
+        width: 60px;
+        background-color: yellow;
+    }
+    #blue{
+        padding: 20px;
+        height: 60px;
+        width: 60px;
+        background-color: blue;
+    }
+}
